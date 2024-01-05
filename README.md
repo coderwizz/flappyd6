@@ -1,0 +1,1 @@
+When the Abelian groups scatter all of S3’s elements across Flappy Groupland, D6 vows to retrieve every last element. Featuring references and mechanics inspired by group theory, Flappy D6 aims to make group theory fun, for math enthusiasts and non-mathematicians alike. 
